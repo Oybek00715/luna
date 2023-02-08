@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: black;
+}
+img{
+    position: absolute;
+    opacity: 0;
+    transition: 1s;
+}
+p{
+    margin-top: 300px;
+    text-align: center;
+    color: white;
+}
+
+.i1{
+    top: 200px;
+    left: 200px;
+}
+
+.i2{
+    top: 330px;
+    left: 150px;
+}
+
+.i3{
+    top: 350px;
+    left: 800px;
+}
+
+.i4{
+    top: 380px;
+    left: 1000px;
+}
+
+.i5{
+    top: 476px;
+    left: 800px;
+}
+
+.i6{
+    top: 500px;
+    left: 620px;
+}
